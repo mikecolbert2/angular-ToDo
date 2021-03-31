@@ -1,5 +1,6 @@
 # Angular ToDo Application
-![Angular](https://img.shields.io/badge/-Angular-black?
+https://badges.aleen42.com/src/angular.svg
+
 Simple ToDo application built with Angular 11.
 
 I followed along with the Traversy Media tutorial at: https://www.youtube.com/watch?v=Fdf5aTYRW0E
