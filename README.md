@@ -1,5 +1,5 @@
 # Angular ToDo Application
-https://badges.aleen42.com/src/angular.svg
+![Angular](https://badges.aleen42.com/src/angular.svg)
 
 Simple ToDo application built with Angular 11.
 
